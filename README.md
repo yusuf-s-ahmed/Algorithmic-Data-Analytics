@@ -2,17 +2,35 @@
 
 ## Folder Structure
 
-The repository contains a hierarchical organisation of the 5 chosen algorithms.
+The repository contains a hierarchical organisation of the 5 chosen algorithms in all 4 different language implementations Python, Java, C++, and Runa.
 
 ```
-sybertnetics/                   
-├── algorithms/                 
-│   ├── algorithm_1/            
-│   ├── algorithm_2/            
-│   ├── algorithm_3/            
-│   ├── algorithm_4/                
-│   └── algorithm_5/            
-└── README.md                   
+algorithms/
+├── algorithm_1/
+│   ├── example.py      ← Python implementation
+│   ├── example.java    ← Java implementation  
+│   ├── example.cpp     ← C++ implementation
+│   └── example.runa    ← Runa implementation
+├── algorithm_2/
+│   ├── example.py      ← Python implementation
+│   ├── example.java    ← Java implementation
+│   ├── example.cpp     ← C++ implementation
+│   └── example.runa    ← Runa implementation
+├── algorithm_3/
+│   ├── example.py      ← Python implementation
+│   ├── example.java    ← Java implementation
+│   ├── example.cpp     ← C++ implementation
+│   └── example.runa    ← Runa implementation
+├── algorithm_4/
+│   ├── example.py      ← Python implementation
+│   ├── example.java    ← Java implementation
+│   ├── example.cpp     ← C++ implementation
+│   └── example.runa    ← Runa implementation
+└── algorithm_5/
+    ├── example.py      ← Python implementation
+    ├── example.java    ← Java implementation
+    ├── example.cpp     ← C++ implementation
+    └── example.runa    ← Runa implementation                 
 ```
 
 ### Structure Explanation
