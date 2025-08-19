@@ -1,0 +1,14 @@
+// Algorithm 1 - Runa Implementation
+// This file contains the Runa version of Algorithm 1
+
+algorithm1Example() {
+    /**
+     * Example implementation of Algorithm 1 in Runa
+     */
+    print("Algorithm 1 - Runa Implementation");
+    // TODO: Implement specific algorithm logic here
+}
+
+main() {
+    algorithm1Example();
+}
