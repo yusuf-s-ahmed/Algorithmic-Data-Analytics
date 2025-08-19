@@ -2,36 +2,22 @@
 
 ## Folder Structure
 
-This repository contains a hierarchical organization of algorithms and related resources.
+The repository contains a hierarchical organisation of the 5 chosen algorithms.
 
 ```
-Sybertnetics/                    ← Parent Folder (Root)
-├── algorithms/                  ← Child Folder (Main Container)
-│   ├── algorithm_1/            ← Child Folder (Algorithm Implementation)
-│   ├── algorithm_2/            ← Child Folder (Algorithm Implementation)
-│   ├── algorithm_3/            ← Child Folder (Algorithm Implementation)
-│   ├── algorithm_4/            ← Child Folder (Algorithm Implementation)
-│   └── algorithm_5/            ← Child Folder (Algorithm Implementation)
-└── README.md                   ← Documentation File
+sybertnetics/                   
+├── algorithms/                 
+│   ├── algorithm_1/            
+│   ├── algorithm_2/            
+│   ├── algorithm_3/            
+│   ├── algorithm_4/                
+│   └── algorithm_5/            
+└── README.md                   
 ```
 
 ### Structure Explanation
 
-- **Parent Folder**: `Sybertnetics/` - The root directory containing the entire project
-- **Child Folder**: `algorithms/` - A subdirectory that organizes all algorithm-related content
-- **Grandchild Folders**: `algorithm_1/` through `algorithm_5/` - Individual algorithm implementation directories
+- **Parent Folder**: `algorithms/` - A subdirectory that contains all 5 algorithms
+- **Child Folders**: `algorithm_1/` through `algorithm_5/` - A subdirectory that contains all algorithm implementation variations (Python, Java, C++, Runa)
 - **Documentation**: `README.md` - This file providing project overview and structure
 
-### Visual Hierarchy
-
-```
-📁 Sybertnetics (Parent)
-└── 📁 algorithms (Child)
-    ├── 📁 algorithm_1 (Grandchild)
-    ├── 📁 algorithm_2 (Grandchild)
-    ├── 📁 algorithm_3 (Grandchild)
-    ├── 📁 algorithm_4 (Grandchild)
-    └── 📁 algorithm_5 (Grandchild)
-```
-
-Each level represents a different generation in the folder hierarchy, making it easy to understand the organizational structure of the project.
